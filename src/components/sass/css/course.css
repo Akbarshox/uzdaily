@@ -1,0 +1,8 @@
+.list-block > li{ display: block; }
+.list-li-ptb-15 > li{ padding-top: 15px; padding-bottom: 15px; }
+.list-btm-border-white > li{ border-bottom: 1px solid #fff; }
+.bg-primary{ background: #EC5959 !important; }
+.text-center{ text-align: center; }
+li{
+	color: black
+}
